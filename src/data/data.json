@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Mustache development",
+    "paragraph": "Прості та швидкі сайти для ведучих, фотографів, агенцій, артистів."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Наша спеціалізація - сайти для сфери гостинності. Більшість наших проектів пов'язані зі сферою організації свят та ресторанним обслуговуванням. Ми добре розуміємо потреби цієї отраслі, бізнес-процеси та проблеми наших клієнтів. Саме тому вміємо втілювати оптимальні рішення.  ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Швидкість роботи",
+      "Розуміння потреб",
+      "Досвід в газулі",
+      "Заглиблення в бізнес-процеси"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Оптимальні рішення",
+      "Баланс ціна/якість",
+      "Ефективний підхід",
+      "Розуміння ринку"
     ]
   },
   "Gallery": [
@@ -152,12 +152,13 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "Україна, Дніпро",
+    "phone": "(067) 630-93-42",
+    "email": "mustdev@gmail.com",
+    "facebook": "https://www.facebook.com/mustachedevelopment/",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "youtube.com",
+    "instagram": "https://www.instagram.com/mustache.development/"
   },
   "Features": [
     {
