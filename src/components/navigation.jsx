@@ -34,22 +34,22 @@ export const Navigation = (props) => {
             </li> */}
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Про нас
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Ціни
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Портфоліо
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                Відгуки
               </a>
             </li>
             {/* <li>
@@ -59,7 +59,7 @@ export const Navigation = (props) => {
             </li> */}
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Контакти
               </a>
             </li>
           </ul>
