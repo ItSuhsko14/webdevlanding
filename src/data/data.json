@@ -52,34 +52,22 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cube",
+      "name": "Односторінковий сайт",
+      "price": "3000 грн.",
+      "text": "Landing page або односторінковий сайт - зручний і звичний для відвідувачів формат. Дозволяє послідовно і якісно презентувати Ваші послуги, отримати якісний сайт за невелику вартість."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cubes",
+      "name": "Багатосторінковий сайт",
+      "price": "5000 грн.",
+      "text": "Цей тип сайта презентує Ваш бізнес детально, розкриваючи всі окремі аспекти. Перевагою є можливість детальної оптимізації сайта для пошукових систем."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-child",
+      "name": "Індивідуальний сайт",
+      "price": "від 8000 грн.",
+      "text": "Якщо у Вас є особливі побажання щодо функціональності, дизайну, наповнення сайта, тоді ми пропрацюємо кожен аспект і запропонуємо Вам найкращі рішення."
     }
   ],
   "Testimonials": [

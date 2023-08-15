@@ -5,10 +5,9 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Ціни</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Ми пропонуємо стандартні надійні рішення, а також розробку індивідуального сайту під ваші потреби.
           </p>
         </div>
         <div className="row">
@@ -19,6 +18,8 @@ export const Services = (props) => {
                   <i className={d.icon}></i>
                   <div className="service-desc">
                     <h3>{d.name}</h3>
+                    <h3 className="price-text">{d.price}</h3>
+                    <h3> ---- </h3>
                     <p>{d.text}</p>
                   </div>
                 </div>
