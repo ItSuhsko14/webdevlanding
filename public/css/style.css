@@ -86,6 +86,8 @@ hr {
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
+  display: flex;
+  justify-content: flex-start;  
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -308,6 +310,10 @@ header .intro-text {
   margin: 30px 0;
 }
 /* Services Section */
+.svg-container {
+  width: 60%;
+}
+
 #services {
   padding: 100px 0;
   background: linear-gradient(to right, #000000 0%, #03001f 100%);

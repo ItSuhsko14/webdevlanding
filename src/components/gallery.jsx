@@ -1,5 +1,6 @@
 import { Image } from "./image";
 import React from "react";
+// import Landing from "../../public/"
 
 export const Gallery = (props) => {
   return (
