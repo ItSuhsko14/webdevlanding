@@ -451,6 +451,45 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+
+/* Steps Section */
+#steps {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+#steps i {
+  color: #e6e6e6;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.steps-container {
+  
+
+}
+.steps {
+  display: flex;
+  align-items: stretch;
+  min-height: 170px;
+  margin-top: 20px;
+}
+.step-number {
+  display: flex;
+  flex: 1;
+  
+  font-size: 36px;
+  padding: 20px 20px 0 20px;
+
+}
+
+.steps-content {
+  display: flex;
+  flex-direction: column;
+}
+.steps-content div{
+  flex: 0 0 auto;
+}
+
+
 /* Team Section */
 #team {
   padding: 100px 0;
