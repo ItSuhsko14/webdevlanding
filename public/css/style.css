@@ -462,22 +462,34 @@ header .intro-text {
   font-size: 32px;
   margin-bottom: 20px;
 }
-.steps-container {
-  
 
+.steps-container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
+
+
 .steps {
+  flex: 1;
   display: flex;
   align-items: stretch;
   min-height: 170px;
-  margin-top: 20px;
+  margin: 20p 10px 0px 0px;
+  flex-basis: 240px;
+  max-width: 480px;
 }
+
+
+
 .step-number {
   display: flex;
   flex: 1;
-  
   font-size: 36px;
-  padding: 20px 20px 0 20px;
+  padding: 0px 20px 0 20px;
+  transition: flex-basis 0.3s;
 
 }
 

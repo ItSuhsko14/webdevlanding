@@ -7,20 +7,20 @@ export const Steps = (props) => {
         <div className="section-title text-center">
           <h2>Етапи роботи</h2>
         </div>
-        <div className="row grid-container">
+        <div className="row steps-container">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                  <div className="steps grid-item">
+                <div key={`${d.name}-${i}`} className="steps">
+                  
                     <div className="step-number">
-                      <h1>{d.number}</h1>
-                      
+                      <h1>{d.number}</h1>                      
                     </div>
                     <div className="steps-content">
-                      <div className="testimonial-meta"> {d.name} </div>
+                      <div className="testimonial-meta"> 
+                        <h3>{d.name}</h3>
+                      </div>
                       <div><p>{d.text}</p></div>
                     </div>
-                  </div>
                 </div>
               ))
             : "loading"}
