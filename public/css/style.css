@@ -143,7 +143,7 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 30px;
 }
 .section-title h2 {
   position: relative;
@@ -456,6 +456,7 @@ header .intro-text {
 #steps {
   padding: 100px 0;
   background: #f6f6f6;
+  width: 100%;
 }
 #steps i {
   color: #e6e6e6;
@@ -469,6 +470,7 @@ header .intro-text {
   align-items: stretch;
   flex-wrap: wrap;
   justify-content: flex-start;
+  padding: 0 15px 0 15px;
 }
 
 

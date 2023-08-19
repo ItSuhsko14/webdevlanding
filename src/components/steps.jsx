@@ -7,7 +7,8 @@ export const Steps = (props) => {
         <div className="section-title text-center">
           <h2>Етапи роботи</h2>
         </div>
-        <div className="row steps-container">
+        <div className="row">
+          <div className="steps-container">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="steps">
@@ -24,6 +25,7 @@ export const Steps = (props) => {
                 </div>
               ))
             : "loading"}
+          </div>
         </div>
       </div>
     </div>
