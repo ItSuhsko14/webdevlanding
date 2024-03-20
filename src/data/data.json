@@ -18,6 +18,16 @@
   },
   "Gallery": [
     {
+      "title": "Ведучий Олександр Дорошенко",
+      "largeImage": "img/portfolio/08-large.png",
+      "smallImage": "img/portfolio/08-small.png"
+    },
+    {
+      "title": "Фотограф Діма Літвін",
+      "largeImage": "img/portfolio/07-large.png",
+      "smallImage": "img/portfolio/07-small.png"
+    },
+    {
       "title": "Chef assistant",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
@@ -52,18 +62,18 @@
     {
       "icon": "img/price-img/landing.svg",
       "name": "Односторінковий сайт",
-      "price": "3000 грн.",
+      "price": "5000 грн.",
       "text": "Landing page або односторінковий сайт - зручний і звичний для відвідувачів формат. Дозволяє послідовно і якісно презентувати Ваші послуги, отримати якісний сайт за невелику вартість."
     },
     {
       "icon": "img/price-img/multi.svg",
       "name": "Багатосторінковий сайт",
-      "price": "5000 грн.",
+      "price": "8000 грн.",
       "text": "Цей тип сайта презентує Ваш бізнес детально, розкриваючи всі окремі аспекти. Перевагою є можливість детальної оптимізації сайта для пошукових систем."
     },
     {
       "icon": "img/price-img/individual.svg",      "name": "Індивідуальний сайт",
-      "price": "від 8000 грн.",
+      "price": "від 12000 грн.",
       "text": "Якщо у Вас є особливі побажання щодо функціональності, дизайну, наповнення сайта, тоді ми пропрацюємо кожен аспект і запропонуємо Вам найкращі рішення."
     }
   ],
